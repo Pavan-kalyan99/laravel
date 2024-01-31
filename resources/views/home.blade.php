@@ -4,5 +4,6 @@
 Home page
 
 </h1>
-<h2 class="text-center">Hello,</h2>
+<h2 class="text-center">WELCOME</h2>
+
 @endsection
