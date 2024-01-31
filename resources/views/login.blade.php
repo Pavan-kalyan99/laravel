@@ -4,7 +4,10 @@
 CionLabs
 </h1>
 <div class="container">
+  <div>
+
     <h1>Login page</h1>
+  </div>
     <form method="POST" action="{{url('api/login')}}">
         @csrf
 
