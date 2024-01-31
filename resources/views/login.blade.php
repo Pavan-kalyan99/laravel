@@ -22,5 +22,8 @@ CionLabs
 </div>
 <input type='submit'/>
 </form>
+<div>
+  <a href="/">Back</a>
+</div>
 </div>
 @endsection
